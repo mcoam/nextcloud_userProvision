@@ -9,5 +9,5 @@ The file user is: `/root/users`
 ### Execute
 
 ```
-sh /root/ncProvision.sh
+sh /root/nc_userProvision.sh
 ```
